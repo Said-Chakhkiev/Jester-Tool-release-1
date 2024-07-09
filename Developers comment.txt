@@ -1,0 +1,4 @@
+This is an experimental version of Jester Tools.
+The project is completely open-source; I would be glad if you would develop the project together with me. 
+Cross-platform compatibility and design improvements are planned for the future. 
+There are many projects related to Jester in the pipeline; stay with me and don't miss the releases.
