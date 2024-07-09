@@ -48,7 +48,7 @@ class I2PDConnectFrame(ttk.Frame):
 
         pid_file = os.path.expanduser("~/Library/Application Support/i2pd/i2pd.pid")
 
-        # Удаление PID-файла, если он существует
+    
         if os.path.exists(pid_file):
             try:
                 os.remove(pid_file)
