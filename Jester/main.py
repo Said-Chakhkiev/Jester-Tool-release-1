@@ -9,7 +9,7 @@ from ssh_connect import SSHConnectFrame
 class NetworkToolApp(tk.Tk):
     def __init__(self):
         super().__init__()
-        self.title("Network Tool")
+        self.title("Jester Tool")
         self.geometry("800x600")
 
         tabControl = ttk.Notebook(self)
